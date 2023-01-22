@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\New folder\Piatra_Foarfeca_hartie\ListaBazaDate\bin\Debug\ListaBazaDate.exe.config
+C:\Users\User\Desktop\New folder\Piatra_Foarfeca_hartie\ListaBazaDate\bin\Debug\ListaBazaDate.exe
+C:\Users\User\Desktop\New folder\Piatra_Foarfeca_hartie\ListaBazaDate\bin\Debug\ListaBazaDate.pdb
+C:\Users\User\Desktop\New folder\Piatra_Foarfeca_hartie\ListaBazaDate\bin\Debug\ListaBazaDate.xml
+C:\Users\User\Desktop\New folder\Piatra_Foarfeca_hartie\ListaBazaDate\obj\Debug\PiatraFoarfecaHartie.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\New folder\Piatra_Foarfeca_hartie\ListaBazaDate\obj\Debug\ListaBazaDate.Form1.resources
+C:\Users\User\Desktop\New folder\Piatra_Foarfeca_hartie\ListaBazaDate\obj\Debug\ListaBazaDate.Form2.resources
+C:\Users\User\Desktop\New folder\Piatra_Foarfeca_hartie\ListaBazaDate\obj\Debug\ListaBazaDate.Form3.resources
+C:\Users\User\Desktop\New folder\Piatra_Foarfeca_hartie\ListaBazaDate\obj\Debug\ListaBazaDate.Resources.resources
+C:\Users\User\Desktop\New folder\Piatra_Foarfeca_hartie\ListaBazaDate\obj\Debug\PiatraFoarfecaHartie.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\New folder\Piatra_Foarfeca_hartie\ListaBazaDate\obj\Debug\PiatraFoarfecaHartie.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\Piatra_Foarfeca_hartie\ListaBazaDate\obj\Debug\ListaBazaDate.exe
+C:\Users\User\Desktop\New folder\Piatra_Foarfeca_hartie\ListaBazaDate\obj\Debug\ListaBazaDate.xml
+C:\Users\User\Desktop\New folder\Piatra_Foarfeca_hartie\ListaBazaDate\obj\Debug\ListaBazaDate.pdb

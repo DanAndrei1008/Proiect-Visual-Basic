@@ -1,0 +1,28 @@
+E:\Documente\Facultate\CURSURI\school stuff idk\Semestrul 2\Bazele programarii pe obiecte\proiectfinalsem2\Calculator\Calculator\ListaBazaDate\bin\Debug\ListaBazaDate.exe.config
+E:\Documente\Facultate\CURSURI\school stuff idk\Semestrul 2\Bazele programarii pe obiecte\proiectfinalsem2\Calculator\Calculator\ListaBazaDate\bin\Debug\ListaBazaDate.exe
+E:\Documente\Facultate\CURSURI\school stuff idk\Semestrul 2\Bazele programarii pe obiecte\proiectfinalsem2\Calculator\Calculator\ListaBazaDate\bin\Debug\ListaBazaDate.pdb
+E:\Documente\Facultate\CURSURI\school stuff idk\Semestrul 2\Bazele programarii pe obiecte\proiectfinalsem2\Calculator\Calculator\ListaBazaDate\bin\Debug\ListaBazaDate.xml
+E:\Documente\Facultate\CURSURI\school stuff idk\Semestrul 2\Bazele programarii pe obiecte\proiectfinalsem2\Calculator\Calculator\ListaBazaDate\obj\Debug\Calculator.vbprojAssemblyReference.cache
+E:\Documente\Facultate\CURSURI\school stuff idk\Semestrul 2\Bazele programarii pe obiecte\proiectfinalsem2\Calculator\Calculator\ListaBazaDate\obj\Debug\ListaBazaDate.Form1.resources
+E:\Documente\Facultate\CURSURI\school stuff idk\Semestrul 2\Bazele programarii pe obiecte\proiectfinalsem2\Calculator\Calculator\ListaBazaDate\obj\Debug\ListaBazaDate.Form2.resources
+E:\Documente\Facultate\CURSURI\school stuff idk\Semestrul 2\Bazele programarii pe obiecte\proiectfinalsem2\Calculator\Calculator\ListaBazaDate\obj\Debug\ListaBazaDate.Form3.resources
+E:\Documente\Facultate\CURSURI\school stuff idk\Semestrul 2\Bazele programarii pe obiecte\proiectfinalsem2\Calculator\Calculator\ListaBazaDate\obj\Debug\ListaBazaDate.Resources.resources
+E:\Documente\Facultate\CURSURI\school stuff idk\Semestrul 2\Bazele programarii pe obiecte\proiectfinalsem2\Calculator\Calculator\ListaBazaDate\obj\Debug\Calculator.vbproj.GenerateResource.cache
+E:\Documente\Facultate\CURSURI\school stuff idk\Semestrul 2\Bazele programarii pe obiecte\proiectfinalsem2\Calculator\Calculator\ListaBazaDate\obj\Debug\Calculator.vbproj.CoreCompileInputs.cache
+E:\Documente\Facultate\CURSURI\school stuff idk\Semestrul 2\Bazele programarii pe obiecte\proiectfinalsem2\Calculator\Calculator\ListaBazaDate\obj\Debug\ListaBazaDate.exe
+E:\Documente\Facultate\CURSURI\school stuff idk\Semestrul 2\Bazele programarii pe obiecte\proiectfinalsem2\Calculator\Calculator\ListaBazaDate\obj\Debug\ListaBazaDate.xml
+E:\Documente\Facultate\CURSURI\school stuff idk\Semestrul 2\Bazele programarii pe obiecte\proiectfinalsem2\Calculator\Calculator\ListaBazaDate\obj\Debug\ListaBazaDate.pdb
+C:\Users\dan\Desktop\treaba\facultate\Ura an1\Semestrul 1 si 2\bazele progarmarii pe obiecte\Poriect Bazele programarii pe obiecte\Calculator\ListaBazaDate\bin\Debug\ListaBazaDate.exe.config
+C:\Users\dan\Desktop\treaba\facultate\Ura an1\Semestrul 1 si 2\bazele progarmarii pe obiecte\Poriect Bazele programarii pe obiecte\Calculator\ListaBazaDate\bin\Debug\ListaBazaDate.exe
+C:\Users\dan\Desktop\treaba\facultate\Ura an1\Semestrul 1 si 2\bazele progarmarii pe obiecte\Poriect Bazele programarii pe obiecte\Calculator\ListaBazaDate\bin\Debug\ListaBazaDate.pdb
+C:\Users\dan\Desktop\treaba\facultate\Ura an1\Semestrul 1 si 2\bazele progarmarii pe obiecte\Poriect Bazele programarii pe obiecte\Calculator\ListaBazaDate\bin\Debug\ListaBazaDate.xml
+C:\Users\dan\Desktop\treaba\facultate\Ura an1\Semestrul 1 si 2\bazele progarmarii pe obiecte\Poriect Bazele programarii pe obiecte\Calculator\ListaBazaDate\obj\Debug\Calculator.vbprojAssemblyReference.cache
+C:\Users\dan\Desktop\treaba\facultate\Ura an1\Semestrul 1 si 2\bazele progarmarii pe obiecte\Poriect Bazele programarii pe obiecte\Calculator\ListaBazaDate\obj\Debug\ListaBazaDate.Form1.resources
+C:\Users\dan\Desktop\treaba\facultate\Ura an1\Semestrul 1 si 2\bazele progarmarii pe obiecte\Poriect Bazele programarii pe obiecte\Calculator\ListaBazaDate\obj\Debug\ListaBazaDate.Form2.resources
+C:\Users\dan\Desktop\treaba\facultate\Ura an1\Semestrul 1 si 2\bazele progarmarii pe obiecte\Poriect Bazele programarii pe obiecte\Calculator\ListaBazaDate\obj\Debug\ListaBazaDate.Form3.resources
+C:\Users\dan\Desktop\treaba\facultate\Ura an1\Semestrul 1 si 2\bazele progarmarii pe obiecte\Poriect Bazele programarii pe obiecte\Calculator\ListaBazaDate\obj\Debug\ListaBazaDate.Resources.resources
+C:\Users\dan\Desktop\treaba\facultate\Ura an1\Semestrul 1 si 2\bazele progarmarii pe obiecte\Poriect Bazele programarii pe obiecte\Calculator\ListaBazaDate\obj\Debug\Calculator.vbproj.GenerateResource.cache
+C:\Users\dan\Desktop\treaba\facultate\Ura an1\Semestrul 1 si 2\bazele progarmarii pe obiecte\Poriect Bazele programarii pe obiecte\Calculator\ListaBazaDate\obj\Debug\Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\dan\Desktop\treaba\facultate\Ura an1\Semestrul 1 si 2\bazele progarmarii pe obiecte\Poriect Bazele programarii pe obiecte\Calculator\ListaBazaDate\obj\Debug\ListaBazaDate.exe
+C:\Users\dan\Desktop\treaba\facultate\Ura an1\Semestrul 1 si 2\bazele progarmarii pe obiecte\Poriect Bazele programarii pe obiecte\Calculator\ListaBazaDate\obj\Debug\ListaBazaDate.xml
+C:\Users\dan\Desktop\treaba\facultate\Ura an1\Semestrul 1 si 2\bazele progarmarii pe obiecte\Poriect Bazele programarii pe obiecte\Calculator\ListaBazaDate\obj\Debug\ListaBazaDate.pdb
