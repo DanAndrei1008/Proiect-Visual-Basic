@@ -1,0 +1,15 @@
+E:\Documente\Facultate\CURSURI\school stuff idk\Semestrul 2\Bazele programarii pe obiecte\proiectfinalsem2\Piatra_Foarfeca_hartie\ListaBazaDate\bin\Debug\ListaBazaDate.exe.config
+E:\Documente\Facultate\CURSURI\school stuff idk\Semestrul 2\Bazele programarii pe obiecte\proiectfinalsem2\Piatra_Foarfeca_hartie\ListaBazaDate\bin\Debug\ListaBazaDate.exe
+E:\Documente\Facultate\CURSURI\school stuff idk\Semestrul 2\Bazele programarii pe obiecte\proiectfinalsem2\Piatra_Foarfeca_hartie\ListaBazaDate\bin\Debug\ListaBazaDate.pdb
+E:\Documente\Facultate\CURSURI\school stuff idk\Semestrul 2\Bazele programarii pe obiecte\proiectfinalsem2\Piatra_Foarfeca_hartie\ListaBazaDate\bin\Debug\ListaBazaDate.xml
+E:\Documente\Facultate\CURSURI\school stuff idk\Semestrul 2\Bazele programarii pe obiecte\proiectfinalsem2\Piatra_Foarfeca_hartie\ListaBazaDate\obj\Debug\PiatraFoarfecaHartie.vbprojAssemblyReference.cache
+E:\Documente\Facultate\CURSURI\school stuff idk\Semestrul 2\Bazele programarii pe obiecte\proiectfinalsem2\Piatra_Foarfeca_hartie\ListaBazaDate\obj\Debug\ListaBazaDate.Form1.resources
+E:\Documente\Facultate\CURSURI\school stuff idk\Semestrul 2\Bazele programarii pe obiecte\proiectfinalsem2\Piatra_Foarfeca_hartie\ListaBazaDate\obj\Debug\ListaBazaDate.Form2.resources
+E:\Documente\Facultate\CURSURI\school stuff idk\Semestrul 2\Bazele programarii pe obiecte\proiectfinalsem2\Piatra_Foarfeca_hartie\ListaBazaDate\obj\Debug\ListaBazaDate.Form3.resources
+E:\Documente\Facultate\CURSURI\school stuff idk\Semestrul 2\Bazele programarii pe obiecte\proiectfinalsem2\Piatra_Foarfeca_hartie\ListaBazaDate\obj\Debug\ListaBazaDate.Form4.resources
+E:\Documente\Facultate\CURSURI\school stuff idk\Semestrul 2\Bazele programarii pe obiecte\proiectfinalsem2\Piatra_Foarfeca_hartie\ListaBazaDate\obj\Debug\ListaBazaDate.Resources.resources
+E:\Documente\Facultate\CURSURI\school stuff idk\Semestrul 2\Bazele programarii pe obiecte\proiectfinalsem2\Piatra_Foarfeca_hartie\ListaBazaDate\obj\Debug\PiatraFoarfecaHartie.vbproj.GenerateResource.cache
+E:\Documente\Facultate\CURSURI\school stuff idk\Semestrul 2\Bazele programarii pe obiecte\proiectfinalsem2\Piatra_Foarfeca_hartie\ListaBazaDate\obj\Debug\PiatraFoarfecaHartie.vbproj.CoreCompileInputs.cache
+E:\Documente\Facultate\CURSURI\school stuff idk\Semestrul 2\Bazele programarii pe obiecte\proiectfinalsem2\Piatra_Foarfeca_hartie\ListaBazaDate\obj\Debug\ListaBazaDate.exe
+E:\Documente\Facultate\CURSURI\school stuff idk\Semestrul 2\Bazele programarii pe obiecte\proiectfinalsem2\Piatra_Foarfeca_hartie\ListaBazaDate\obj\Debug\ListaBazaDate.xml
+E:\Documente\Facultate\CURSURI\school stuff idk\Semestrul 2\Bazele programarii pe obiecte\proiectfinalsem2\Piatra_Foarfeca_hartie\ListaBazaDate\obj\Debug\ListaBazaDate.pdb

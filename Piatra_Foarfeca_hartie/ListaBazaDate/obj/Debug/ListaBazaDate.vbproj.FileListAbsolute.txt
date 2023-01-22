@@ -1,0 +1,57 @@
+C:\Users\dan\Desktop\ListaBazaDate\ListaBazaDate\bin\Debug\ListaBazaDate.exe.config
+C:\Users\dan\Desktop\ListaBazaDate\ListaBazaDate\bin\Debug\ListaBazaDate.exe
+C:\Users\dan\Desktop\ListaBazaDate\ListaBazaDate\bin\Debug\ListaBazaDate.pdb
+C:\Users\dan\Desktop\ListaBazaDate\ListaBazaDate\bin\Debug\ListaBazaDate.xml
+C:\Users\dan\Desktop\ListaBazaDate\ListaBazaDate\obj\Debug\ListaBazaDate.vbprojAssemblyReference.cache
+C:\Users\dan\Desktop\ListaBazaDate\ListaBazaDate\obj\Debug\ListaBazaDate.Form1.resources
+C:\Users\dan\Desktop\ListaBazaDate\ListaBazaDate\obj\Debug\ListaBazaDate.Form2.resources
+C:\Users\dan\Desktop\ListaBazaDate\ListaBazaDate\obj\Debug\ListaBazaDate.Form3.resources
+C:\Users\dan\Desktop\ListaBazaDate\ListaBazaDate\obj\Debug\ListaBazaDate.Resources.resources
+C:\Users\dan\Desktop\ListaBazaDate\ListaBazaDate\obj\Debug\ListaBazaDate.vbproj.GenerateResource.cache
+C:\Users\dan\Desktop\ListaBazaDate\ListaBazaDate\obj\Debug\ListaBazaDate.vbproj.CoreCompileInputs.cache
+C:\Users\dan\Desktop\ListaBazaDate\ListaBazaDate\obj\Debug\ListaBazaDate.exe
+C:\Users\dan\Desktop\ListaBazaDate\ListaBazaDate\obj\Debug\ListaBazaDate.xml
+C:\Users\dan\Desktop\ListaBazaDate\ListaBazaDate\obj\Debug\ListaBazaDate.pdb
+C:\Users\Andrei\Desktop\ListaBazaDate\ListaBazaDate\bin\Debug\ListaBazaDate.exe.config
+C:\Users\Andrei\Desktop\ListaBazaDate\ListaBazaDate\bin\Debug\ListaBazaDate.exe
+C:\Users\Andrei\Desktop\ListaBazaDate\ListaBazaDate\bin\Debug\ListaBazaDate.pdb
+C:\Users\Andrei\Desktop\ListaBazaDate\ListaBazaDate\bin\Debug\ListaBazaDate.xml
+C:\Users\Andrei\Desktop\ListaBazaDate\ListaBazaDate\obj\Debug\ListaBazaDate.vbprojAssemblyReference.cache
+C:\Users\Andrei\Desktop\ListaBazaDate\ListaBazaDate\obj\Debug\ListaBazaDate.Form1.resources
+C:\Users\Andrei\Desktop\ListaBazaDate\ListaBazaDate\obj\Debug\ListaBazaDate.Form2.resources
+C:\Users\Andrei\Desktop\ListaBazaDate\ListaBazaDate\obj\Debug\ListaBazaDate.Form3.resources
+C:\Users\Andrei\Desktop\ListaBazaDate\ListaBazaDate\obj\Debug\ListaBazaDate.Resources.resources
+C:\Users\Andrei\Desktop\ListaBazaDate\ListaBazaDate\obj\Debug\ListaBazaDate.vbproj.GenerateResource.cache
+C:\Users\Andrei\Desktop\ListaBazaDate\ListaBazaDate\obj\Debug\ListaBazaDate.vbproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\ListaBazaDate\ListaBazaDate\obj\Debug\ListaBazaDate.exe
+C:\Users\Andrei\Desktop\ListaBazaDate\ListaBazaDate\obj\Debug\ListaBazaDate.xml
+C:\Users\Andrei\Desktop\ListaBazaDate\ListaBazaDate\obj\Debug\ListaBazaDate.pdb
+C:\Users\User\Desktop\New folder\ListaBazaDate\ListaBazaDate\bin\Debug\ListaBazaDate.exe.config
+C:\Users\User\Desktop\New folder\ListaBazaDate\ListaBazaDate\bin\Debug\ListaBazaDate.exe
+C:\Users\User\Desktop\New folder\ListaBazaDate\ListaBazaDate\bin\Debug\ListaBazaDate.pdb
+C:\Users\User\Desktop\New folder\ListaBazaDate\ListaBazaDate\bin\Debug\ListaBazaDate.xml
+C:\Users\User\Desktop\New folder\ListaBazaDate\ListaBazaDate\obj\Debug\ListaBazaDate.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\New folder\ListaBazaDate\ListaBazaDate\obj\Debug\ListaBazaDate.Form1.resources
+C:\Users\User\Desktop\New folder\ListaBazaDate\ListaBazaDate\obj\Debug\ListaBazaDate.Form2.resources
+C:\Users\User\Desktop\New folder\ListaBazaDate\ListaBazaDate\obj\Debug\ListaBazaDate.Form3.resources
+C:\Users\User\Desktop\New folder\ListaBazaDate\ListaBazaDate\obj\Debug\ListaBazaDate.Resources.resources
+C:\Users\User\Desktop\New folder\ListaBazaDate\ListaBazaDate\obj\Debug\ListaBazaDate.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\New folder\ListaBazaDate\ListaBazaDate\obj\Debug\ListaBazaDate.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\ListaBazaDate\ListaBazaDate\obj\Debug\ListaBazaDate.exe
+C:\Users\User\Desktop\New folder\ListaBazaDate\ListaBazaDate\obj\Debug\ListaBazaDate.xml
+C:\Users\User\Desktop\New folder\ListaBazaDate\ListaBazaDate\obj\Debug\ListaBazaDate.pdb
+C:\Users\User\Desktop\New folder\ListaBazaDate2\ListaBazaDate\bin\Debug\ListaBazaDate.exe.config
+C:\Users\User\Desktop\New folder\ListaBazaDate2\ListaBazaDate\bin\Debug\ListaBazaDate.exe
+C:\Users\User\Desktop\New folder\ListaBazaDate2\ListaBazaDate\bin\Debug\ListaBazaDate.pdb
+C:\Users\User\Desktop\New folder\ListaBazaDate2\ListaBazaDate\bin\Debug\ListaBazaDate.xml
+C:\Users\User\Desktop\New folder\ListaBazaDate2\ListaBazaDate\obj\Debug\ListaBazaDate.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\New folder\ListaBazaDate2\ListaBazaDate\obj\Debug\ListaBazaDate.Form1.resources
+C:\Users\User\Desktop\New folder\ListaBazaDate2\ListaBazaDate\obj\Debug\ListaBazaDate.Form2.resources
+C:\Users\User\Desktop\New folder\ListaBazaDate2\ListaBazaDate\obj\Debug\ListaBazaDate.Form3.resources
+C:\Users\User\Desktop\New folder\ListaBazaDate2\ListaBazaDate\obj\Debug\ListaBazaDate.Resources.resources
+C:\Users\User\Desktop\New folder\ListaBazaDate2\ListaBazaDate\obj\Debug\ListaBazaDate.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\New folder\ListaBazaDate2\ListaBazaDate\obj\Debug\ListaBazaDate.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\ListaBazaDate2\ListaBazaDate\obj\Debug\ListaBazaDate.exe
+C:\Users\User\Desktop\New folder\ListaBazaDate2\ListaBazaDate\obj\Debug\ListaBazaDate.xml
+C:\Users\User\Desktop\New folder\ListaBazaDate2\ListaBazaDate\obj\Debug\ListaBazaDate.pdb
+C:\Users\User\Desktop\New folder\ListaBazaDate2\ListaBazaDate\obj\Debug\ListaBazaDate.Form4.resources
